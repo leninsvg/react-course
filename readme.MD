@@ -1,9 +1,13 @@
-### React documentation
-https://create-react-app.dev
-#### Create Project
-`npx create-react-app my-app`
+# react-course
 
-### Vite documentation
-https://vitejs.dev
-#### Create Project
-`yarn create vite`
+Create view project
+
+https://vitejs.dev/guide/
+
+```yarn create vite```
+
+Create react project
+
+https://create-react-app.dev
+
+```npx create-react-app my-app```
