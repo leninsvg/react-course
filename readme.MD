@@ -14,3 +14,23 @@ https://create-react-app.dev
 
 ### Unit test
 https://jestjs.io
+
+
+### APIs
+
+https://pokeapi.co/
+
+
+### Libraries
+
+react-hook-form
+https://react-hook-form.com/
+
+tank-stank-query
+https://tanstack.com/query/latest
+
+redux
+https://redux.js.org/
+
+redux-toolkit
+https://redux-toolkit.js.org/

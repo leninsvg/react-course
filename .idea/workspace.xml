@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8665c7ea-49b1-4f30-bfa6-90ee5b1df079" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/05-hook-app/src/01-useState/CounterApp.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05-hook-app/src/01-useState/CounterWithCustomHook.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05-hook-app/src/02-useEffect/FormWithCustomHook.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05-hook-app/src/02-useEffect/Message.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05-hook-app/src/02-useEffect/SimpleForm.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05-hook-app/src/03-examples/LoadingMessage.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05-hook-app/src/03-examples/MultipleCustomHooks.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05-hook-app/src/03-examples/PokemonCard.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05-hook-app/src/04-userRef/FocusScreen.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05-hook-app/src/05-useLayoutEffect/Layout.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05-hook-app/src/06-memo/CallbackHook.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05-hook-app/src/06-memo/MemoHook.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05-hook-app/src/06-memo/Memorize.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05-hook-app/src/06-memo/ShowIncrement.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05-hook-app/src/06-memo/Small.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05-hook-app/src/07-tarea-memo/Hijo.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05-hook-app/src/07-tarea-memo/Padre.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05-hook-app/src/HooksApp.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05-hook-app/src/hooks/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05-hook-app/src/hooks/useCounter.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05-hook-app/src/hooks/useFetch.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05-hook-app/src/hooks/useForm.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05-hook-app/src/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/09-toolkit-redux/src/PokemonApp.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/09-toolkit-redux/src/api/pokemonApi.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/09-toolkit-redux/src/store/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/09-toolkit-redux/src/store/slices/counter/counterSlice.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/09-toolkit-redux/src/store/slices/counter/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/09-toolkit-redux/src/store/slices/pokemon/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/09-toolkit-redux/src/store/slices/pokemon/pokemonSlice.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/09-toolkit-redux/src/store/slices/pokemon/thunks.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/09-toolkit-redux/src/store/slices/todos/todoSlice.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/09-toolkit-redux/src/store/store.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/react-course.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/react-course.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/03-counter-app/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/03-counter-app/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/03-counter-app/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/03-counter-app/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/03-counter-app/src/CounterApp.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/03-counter-app/src/CounterApp.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/03-counter-app/src/FirstApp.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/03-counter-app/src/FirstApp.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/03-counter-app/src/main.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/03-counter-app/src/main.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JSX File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;leninsvg&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/leninsvg/react-course.git&quot;,
+    &quot;accountId&quot;: &quot;b31157f0-e59f-4e5e-a7f5-edb415452050&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="2gL8pROuddXFevo38TDJbgYEgCy" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/leninsamaniego/Projects/Courses/react-course/05-hook-app/src&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.sourceCode.JavaScript&quot;,
+    &quot;ts.external.directory.path&quot;: &quot;/Applications/WebStorm.app/Contents/plugins/javascript-plugin/jsLanguageServicesImpl/external&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/05-hook-app/src" />
+      <recent name="$PROJECT_DIR$/05-hook-app/src/06-memo" />
+      <recent name="$PROJECT_DIR$/05-hook-app/src/02-useEffect" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-1d06a55b98c1-91d5c284f522-JavaScript-WS-241.15989.105" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8665c7ea-49b1-4f30-bfa6-90ee5b1df079" name="Changes" comment="" />
+      <created>1715465679232</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1715465679232</updated>
+      <workItem from="1715465680255" duration="33582000" />
+      <workItem from="1715622450039" duration="14113000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

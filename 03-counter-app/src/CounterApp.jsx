@@ -2,15 +2,12 @@ import PropTypes from 'prop-types';
 
 import {useState} from 'react';
 
-export const CounterApp = (
-    {
-        // eslint-disable-next-line react/prop-types
-        value
-    }) => {
+export const CounterApp = ({value}) => {
     console.log('render 1')
     const [counter, setCounter] = useState(value)
     const handleAdd = () => {
         setCounter(counter + 1);
+        setCounter((c) => c + 1);
     }
 
     const handleDismiss = () => {
