@@ -4,46 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8665c7ea-49b1-4f30-bfa6-90ee5b1df079" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/05-hook-app/src/01-useState/CounterApp.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05-hook-app/src/01-useState/CounterWithCustomHook.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05-hook-app/src/02-useEffect/FormWithCustomHook.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05-hook-app/src/02-useEffect/Message.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05-hook-app/src/02-useEffect/SimpleForm.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05-hook-app/src/03-examples/LoadingMessage.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05-hook-app/src/03-examples/MultipleCustomHooks.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05-hook-app/src/03-examples/PokemonCard.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05-hook-app/src/04-userRef/FocusScreen.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05-hook-app/src/05-useLayoutEffect/Layout.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05-hook-app/src/06-memo/CallbackHook.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05-hook-app/src/06-memo/MemoHook.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05-hook-app/src/06-memo/Memorize.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05-hook-app/src/06-memo/ShowIncrement.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05-hook-app/src/06-memo/Small.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05-hook-app/src/07-tarea-memo/Hijo.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05-hook-app/src/07-tarea-memo/Padre.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05-hook-app/src/HooksApp.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05-hook-app/src/hooks/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05-hook-app/src/hooks/useCounter.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05-hook-app/src/hooks/useFetch.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05-hook-app/src/hooks/useForm.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05-hook-app/src/index.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/09-toolkit-redux/src/PokemonApp.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/09-toolkit-redux/src/api/pokemonApi.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/09-toolkit-redux/src/store/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/09-toolkit-redux/src/store/slices/counter/counterSlice.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/09-toolkit-redux/src/store/slices/counter/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/09-toolkit-redux/src/store/slices/pokemon/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/09-toolkit-redux/src/store/slices/pokemon/pokemonSlice.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/09-toolkit-redux/src/store/slices/pokemon/thunks.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/09-toolkit-redux/src/store/slices/todos/todoSlice.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/09-toolkit-redux/src/store/store.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/react-course.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/react-course.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/03-counter-app/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/03-counter-app/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/03-counter-app/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/03-counter-app/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/03-counter-app/src/CounterApp.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/03-counter-app/src/CounterApp.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/03-counter-app/src/FirstApp.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/03-counter-app/src/FirstApp.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/03-counter-app/src/main.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/03-counter-app/src/main.jsx" afterDir="false" />
+    <list default="true" id="8665c7ea-49b1-4f30-bfa6-90ee5b1df079" name="Changes" comment="last changes">
+      <change afterPath="$PROJECT_DIR$/09-toolkit-redux/src/TodoApp.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/09-toolkit-redux/src/store/apis/todosApi.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/09-toolkit-redux/src/main.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/09-toolkit-redux/src/main.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/09-toolkit-redux/src/store/store.js" beforeDir="false" afterPath="$PROJECT_DIR$/09-toolkit-redux/src/store/store.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -120,11 +86,32 @@
       <option name="presentableId" value="Default" />
       <updated>1715465679232</updated>
       <workItem from="1715465680255" duration="33582000" />
-      <workItem from="1715622450039" duration="14113000" />
+      <workItem from="1715622450039" duration="17997000" />
     </task>
+    <task id="LOCAL-00001" summary="last changes">
+      <option name="closed" value="true" />
+      <created>1715728231387</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1715728231387</updated>
+    </task>
+    <task id="LOCAL-00002" summary="last changes">
+      <option name="closed" value="true" />
+      <created>1715728356475</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1715728356475</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="last changes" />
+    <option name="LAST_COMMIT_MESSAGE" value="last changes" />
   </component>
 </project>
