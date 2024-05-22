@@ -4,12 +4,24 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8665c7ea-49b1-4f30-bfa6-90ee5b1df079" name="Changes" comment="last changes">
-      <change afterPath="$PROJECT_DIR$/09-toolkit-redux/src/TodoApp.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/09-toolkit-redux/src/store/apis/todosApi.js" afterDir="false" />
+    <list default="true" id="8665c7ea-49b1-4f30-bfa6-90ee5b1df079" name="Changes" comment="RTQ query">
+      <change afterPath="$PROJECT_DIR$/08-use-reducer/TodoApp.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/08-use-reducer/components/TodoAdd.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/08-use-reducer/components/TodoItem.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/08-use-reducer/components/TodoList.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/08-use-reducer/hooks/useTodo.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/08-use-reducer/intro.redurcer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/08-use-reducer/todo.reducer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/09-use-context/MainApp.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/09-use-context/Navbar.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/09-use-context/pages/AboutPage.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/09-use-context/pages/LoginPage.jsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/09-toolkit-redux/src/main.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/09-toolkit-redux/src/main.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/09-toolkit-redux/src/store/store.js" beforeDir="false" afterPath="$PROJECT_DIR$/09-toolkit-redux/src/store/store.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/03-counter-app/src/CounterApp.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/03-counter-app/src/CounterApp.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/05-hook-app/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/05-hook-app/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/05-hook-app/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/05-hook-app/src/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/05-hook-app/src/main.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/05-hook-app/src/main.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/05-hook-app/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/05-hook-app/yarn.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -69,6 +81,9 @@
       <recent name="$PROJECT_DIR$/05-hook-app/src/06-memo" />
       <recent name="$PROJECT_DIR$/05-hook-app/src/02-useEffect" />
     </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/08-use-reducer/components" />
+    </key>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
@@ -87,6 +102,12 @@
       <updated>1715465679232</updated>
       <workItem from="1715465680255" duration="33582000" />
       <workItem from="1715622450039" duration="17997000" />
+      <workItem from="1715781912379" duration="1944000" />
+      <workItem from="1715866402526" duration="1856000" />
+      <workItem from="1715953236843" duration="2139000" />
+      <workItem from="1716038867291" duration="13719000" />
+      <workItem from="1716220874498" duration="36000" />
+      <workItem from="1716241060158" duration="19059000" />
     </task>
     <task id="LOCAL-00001" summary="last changes">
       <option name="closed" value="true" />
@@ -109,6 +130,17 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="last changes" />

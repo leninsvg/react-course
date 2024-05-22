@@ -3,8 +3,8 @@ import PropTypes from 'prop-types';
 import {useState} from 'react';
 
 export const CounterApp = ({value}) => {
-    console.log('render 1')
     const [counter, setCounter] = useState(value)
+    console.log('render 1', counter)
     const handleAdd = () => {
         setCounter(counter + 1);
         setCounter((c) => c + 1);
