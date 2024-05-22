@@ -1,10 +1,9 @@
-import {AboutPage } from './pages/AboutPage';
-import {
-	Routes, Route, Navigate, Link
-} from "react-router-dom";
+import {AboutPage} from './pages/AboutPage';
+import {Navigate, Route, Routes} from "react-router-dom";
 import {HomePage} from './pages/HomePage';
 import {LoginPage} from './pages/LoginPage';
 import {Navbar} from './Navbar';
+import {UserProvider} from './context/UserProvider';
 // const router = createBrowserRouter([
 // 	{
 // 		path: "/",
@@ -14,7 +13,7 @@ import {Navbar} from './Navbar';
 
 export const MainApp = () => {
 	return (
-		<>
+		<UserProvider>
 			<h1>MainApp</h1>
 			<Navbar></Navbar>
 			<hr/>
@@ -24,6 +23,6 @@ export const MainApp = () => {
 				<Route path={"login"} element={<LoginPage></LoginPage>}></Route>
 				<Route path={"/*"} element={<Navigate to={'/about'}></Navigate>}></Route>
 			</Routes>
-		</>
+		</UserProvider>
 	)
 }

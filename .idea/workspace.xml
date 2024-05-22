@@ -4,24 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8665c7ea-49b1-4f30-bfa6-90ee5b1df079" name="Changes" comment="RTQ query">
-      <change afterPath="$PROJECT_DIR$/08-use-reducer/TodoApp.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/08-use-reducer/components/TodoAdd.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/08-use-reducer/components/TodoItem.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/08-use-reducer/components/TodoList.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/08-use-reducer/hooks/useTodo.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/08-use-reducer/intro.redurcer.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/08-use-reducer/todo.reducer.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/09-use-context/MainApp.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/09-use-context/Navbar.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/09-use-context/pages/AboutPage.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/09-use-context/pages/LoginPage.jsx" afterDir="false" />
+    <list default="true" id="8665c7ea-49b1-4f30-bfa6-90ee5b1df079" name="Changes" comment="Add dusto hooks and a lot of things">
+      <change afterPath="$PROJECT_DIR$/09-use-context/context/UserContext.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/09-use-context/context/UserProvider.jsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/03-counter-app/src/CounterApp.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/03-counter-app/src/CounterApp.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/05-hook-app/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/05-hook-app/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/05-hook-app/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/05-hook-app/src/index.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/05-hook-app/src/main.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/05-hook-app/src/main.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/05-hook-app/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/05-hook-app/yarn.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/09-use-context/MainApp.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/09-use-context/MainApp.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/09-use-context/pages/HomePage.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/09-use-context/pages/HomePage.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/09-use-context/pages/LoginPage.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/09-use-context/pages/LoginPage.jsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -32,8 +21,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="JSX File" />
         <option value="JavaScript File" />
+        <option value="JSX File" />
       </list>
     </option>
   </component>
@@ -107,7 +96,7 @@
       <workItem from="1715953236843" duration="2139000" />
       <workItem from="1716038867291" duration="13719000" />
       <workItem from="1716220874498" duration="36000" />
-      <workItem from="1716241060158" duration="19059000" />
+      <workItem from="1716241060158" duration="21475000" />
     </task>
     <task id="LOCAL-00001" summary="last changes">
       <option name="closed" value="true" />
@@ -125,7 +114,15 @@
       <option name="project" value="LOCAL" />
       <updated>1715728356475</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Add dusto hooks and a lot of things">
+      <option name="closed" value="true" />
+      <created>1716343755591</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1716343755591</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -144,6 +141,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="last changes" />
-    <option name="LAST_COMMIT_MESSAGE" value="last changes" />
+    <MESSAGE value="Add dusto hooks and a lot of things" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add dusto hooks and a lot of things" />
   </component>
 </project>
