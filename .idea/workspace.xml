@@ -92,7 +92,8 @@
       <workItem from="1716038867291" duration="13719000" />
       <workItem from="1716220874498" duration="36000" />
       <workItem from="1716241060158" duration="24235000" />
-      <workItem from="1716410745037" duration="598000" />
+      <workItem from="1716410745037" duration="635000" />
+      <workItem from="1716570442833" duration="1501000" />
     </task>
     <task id="LOCAL-00001" summary="last changes">
       <option name="closed" value="true" />
@@ -126,7 +127,15 @@
       <option name="project" value="LOCAL" />
       <updated>1716346153204</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Add dusto hooks and a lot of things">
+      <option name="closed" value="true" />
+      <created>1716428112727</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1716428112727</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
